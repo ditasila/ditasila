@@ -1,22 +1,7 @@
-<h1 align="center">Hello, I'm Annisa Ditasila</h1>
+<h1 align="center">Annisa Ditasila</h1>
 <h3 align="center">Data Scientist | Data Analyst</h3>
-<!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/media/01d3300ea655f716d67efa6665113005.gif"> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ditasila&label=Profile%20views&color=0e75b6&style=flat" alt="ditasila" /> </p>
-
-<!-- <p align="left"> <a href="https://twitter.com/ditasila_" target="blank"><img src="https://img.shields.io/twitter/follow/ditasila_?logo=twitter&style=for-the-badge" alt="ditasila_" /></a> </p> -->
-
-- 🌱 I’m currently learning **about data science and machine learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/ditasila](https://github.com/ditasila)
-
-<!-- - 💬 Ask me about **Data Training, Data Modelling, Data Visualization, Python Programming, and Databases** -->
-
-- 📫 Reach me at **ditasila@gmail.com**
-
-- 📄 Know about my experiences at [https://www.linkedin.com/in/ditasila](https://www.linkedin.com/in/ditasila)
-
-<!-- - ⚡ About me **eager to learn new things, detail-oriented, and responsible** -->
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=ditasila&label=Profile%20views&color=0e75b6&style=flat" alt="ditasila" /> </p>
 
 
 <h2>👨‍💻 Projects:</h2>
@@ -28,7 +13,6 @@
     - **Crime Against Women in India Dashboard**  
     - **Makeup and Skincare Dashboard**
 
----
 
 - **Customer Lifetime Value (CLV) Prediction – Machine Learning**  
   *August 2024 | Auto Insurance Sector*  
@@ -39,7 +23,6 @@
     - Provided resource allocation strategies to improve customer retention.  
     - Created an interactive **Auto Insurance Dashboard** for real-time CLV monitoring.
 
----
 
 - **Customer Churn Prediction – Machine Learning**  
   *July 2024 | Telecommunications Company*  
@@ -52,7 +35,6 @@
     - Conducted model evaluation using **cross-validation**, and visualized results with **Matplotlib** and **Seaborn**.  
     - Deployed the model on **Google Cloud Platform** for real-time predictions and user interaction.
 
----
 
 - **Amazon SaaS Sales Analysis – Data Analysis**  
   *May 2024*  
@@ -63,7 +45,6 @@
     - Assessed geographical data to uncover regional trends and opportunities.  
     - Created **Tableau dashboards** to present insights, track performance, and support decision-making.
 
----
 
 - **Rental Housing Program – Python Development**  
   *March 2024 | Personal Project*  
@@ -74,28 +55,24 @@
     - Developed dynamic routing to tailor user experiences based on their roles, improving usability.  
     - Facilitated comprehensive data management with **CRUD operations** for rental records.
 
----
 
-<h2>🎓 Education:</h2>
-
-**Kazan Federal University**  
-Bachelor of Economics, Specialization in Digital Economics  
-September 2019 – July 2023 
 
 <h2>🛠 Skills:</h2>
 
-- **Programming Languages**: SQL, Python
-- **Data Visualization**: Tableau, Excel, Matplotlib, Seaborn
-- **Data Science and Analytics**: Scikit-Learn, Pandas, NumPy, Hypothesis Testing, Regression Analysis, Statistics, Descriptive and Inferential Analysis
-- **Languages**: Indonesian (Native), English (Advanced), Russian (Advanced)
+- **Programming Languages**: SQL, Python, DAX  
+- **Data Visualization**: Tableau, Power BI, Excel, Matplotlib, Seaborn  
+- **Data Science & Analytics**:  
+  - Machine Learning (Supervised Learning, Model Evaluation, Hyperparameter Tuning)  
+  - Statistical Analysis (Hypothesis Testing, Regression Analysis, Probability Theory)  
+  - Data Wrangling  
+- **Cloud Computing**: Google Cloud Platform, Amazon Cloud Services  
+- **Languages**: Indonesian, English, Russian 
 - **Soft Skills**: Analytical Thinking, Problem-Solving, Effective Communication, Team Collaboration, Time Management, Adaptability, Critical Thinking
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/ditasila_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ditasila_" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/ditasila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ditasila" height="30" width="40" /></a>
-<!-- <a href="https://fb.com/ditasila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ditasila" height="30" width="40" /></a>
-<a href="https://instagram.com/ditasila" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ditasila" height="30" width="40" /></a> -->
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
