@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Annisa Ditasila</h1>
-<h3 align="center">Economics Graduate | Data Scientist & Analyst</h3>
+<h3 align="center">Data Scientist | Data Analyst</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2514124/screenshots/5439070/media/01d3300ea655f716d67efa6665113005.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ditasila&label=Profile%20views&color=0e75b6&style=flat" alt="ditasila" /> </p>
@@ -18,39 +18,64 @@
 
 <!-- - ⚡ About me **eager to learn new things, detail-oriented, and responsible** -->
 
+
 <h2>👨‍💻 Projects:</h2>
 
-- <b>Digital Talent Incubator, Purwadhika’s School</b>
-  - [Rental Housing Program](https://github.com/ditasila/Purwadhika-DTIDS.git)
-    - Developed a Python authentication system enabling user login with role-based access (admin or user).
-    - Implemented functions for user management and interface redirection based on user type.
-    - Managed rental data using CRUD operations, facilitating efficient data management.
-  - [Data Analysis: SaaS sales through Amazon](https://github.com/ditasila/Capstone_2.git)
-    - Analyzed SaaS company sales data from Amazon to optimize pricing strategies.
-    - Examined variable correlations, product influence, customer impact, and geographical prospects.
-    - Developed Tableau dashboards to present insights and growth opportunities.
-    - Tableau: [AWS Sales Performance](https://public.tableau.com/views/CAPSTONE2_17176528829280/saas-dashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)
-  - [Customer Churn Prediction](https://github.com/ditasila/Capstone_3.git)
-    - Developed a predictive model to identify customers likely to churn based on historical data.
-    - Utilized various machine learning algorithms, including logistic regression, decision trees, and gradient boosting.
-    - Performed feature engineering to enhance model performance, including handling missing values, encoding categorical variables, and scaling numerical features.
-    - Evaluated model performance using metrics such as recall.
-    - Implemented data visualization techniques to interpret model outputs and derive actionable insights.
+- **Power BI – Demo Dashboards**  
+  *September 2024*  
+  - Developed interactive dashboards to analyze and visualize key metrics in various domains:  
+    - **Global Living Conditions Dashboard**  
+    - **Crime Against Women in India Dashboard**  
+    - **Makeup and Skincare Dashboard**
 
-<h2>📜 Publications:</h2>
+---
 
-- **Distinguish Input and Output Handling: A Comparative Analysis of Function Parameters versus Terminal Interaction in Python**
+- **Customer Lifetime Value (CLV) Prediction – Machine Learning**  
+  *August 2024 | Auto Insurance Sector*  
+  - Developed a predictive model for **Customer Lifetime Value (CLV)** to enhance segmentation and strategic decision-making.  
+  - **Responsibilities**:  
+    - Analyzed vehicle insurance customer data to extract actionable insights.  
+    - Built a CLV predictor using machine learning techniques and **RFM analysis** to prioritize high-value customers.  
+    - Provided resource allocation strategies to improve customer retention.  
+    - Created an interactive **Auto Insurance Dashboard** for real-time CLV monitoring.
 
-  - Medium: [Distinguish Input and Output Handling](https://medium.com/@ditasila/distinguish-input-and-output-handling-a-comparative-analysis-of-function-parameters-versus-8dfd6a3c61e6)
-  
-- **Exploring Alternative Methods to Retrieve Columns from Different Tables in SQL**
+---
 
-  - Medium: [Exploring Alternative Methods](https://medium.com/@ditasila/exploring-alternative-methods-to-retrieve-columns-from-different-tables-in-sql-f43db5d56fd2)
+- **Customer Churn Prediction – Machine Learning**  
+  *July 2024 | Telecommunications Company*  
+  - Developed a predictive machine learning model to forecast customer churn in a telecommunications company.  
+  - **Responsibilities**:  
+    - Cleaned and preprocessed data to handle missing values and outliers.  
+    - Enhanced model performance through advanced feature engineering.  
+    - Applied machine learning techniques including **Logistic Regression**, **Random Forests**, and **Gradient Boosting**.  
+    - Achieved notable recall in predicting churn.  
+    - Conducted model evaluation using **cross-validation**, and visualized results with **Matplotlib** and **Seaborn**.  
+    - Deployed the model on **Google Cloud Platform** for real-time predictions and user interaction.
 
-- **From Chaos to Clarity: Unveiling the Power of Tomek Links**
+---
 
-  - Medium: [From Chaos to Clarity: Unveiling the Power of Tomek Links](https://medium.com/@ditasila/from-chaos-to-clarity-unveiling-the-power-of-tomek-links-03667f5b75fa)
-  
+- **Amazon SaaS Sales Analysis – Data Analysis**  
+  *May 2024*  
+  - Conducted in-depth analysis of SaaS sales data from Amazon to refine pricing strategies and identify growth opportunities.  
+  - **Responsibilities**:  
+    - Analyzed correlations between variables to understand their impact on sales performance.  
+    - Examined product influence and customer segment impact on sales outcomes.  
+    - Assessed geographical data to uncover regional trends and opportunities.  
+    - Created **Tableau dashboards** to present insights, track performance, and support decision-making.
+
+---
+
+- **Rental Housing Program – Python Development**  
+  *March 2024 | Personal Project*  
+  - Developed a robust Python-based authentication system for role-based user login (admin or user).  
+  - **Responsibilities**:  
+    - Implemented secure login functionality with distinct roles and access permissions.  
+    - Enabled user registration, profile management, and password recovery features.  
+    - Developed dynamic routing to tailor user experiences based on their roles, improving usability.  
+    - Facilitated comprehensive data management with **CRUD operations** for rental records.
+
+---
+
 <h2>🎓 Education:</h2>
 
 **Kazan Federal University**  
